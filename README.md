@@ -12,13 +12,15 @@ Os dados estão distribuídos em 4 arquivos. Organizados entre:
 - Cartões (campeonato-brasileiro-cartoes)
 
 O modelo de relação entre as tabelas é demonstrado na imagem abaixo:
-![Modelo DB](./Imagens/Modelo%20DB%20Github.jpg)
+<p align="center">
+  <img src="https://github.com/dsanchezsantos/brasileirao_data_analysis/blob/852aff5fc7ff46213bfad433d9fe2e0898d978b3/assets/Modelo%20DB%20Github.jpg" alt="Modelo DB">
+</p>
 
 ## Apresentação - Dashboard Interativo
 
 A análise é apresentada em um dashboard interativo onde encontram-se as principais informações disponíveis com opção de segmentação por filtros.
 <p align="center">
-  <img src="https://github.com/dsanchezsantos/brasileirao_data_analysis/blob/09832c5cf7db1184ffe3baadb7c0454c57edd59c/assets/print.png" alt="Modelo DB">
+  <img src="https://github.com/dsanchezsantos/brasileirao_data_analysis/blob/09832c5cf7db1184ffe3baadb7c0454c57edd59c/assets/print.png" alt="Print Power BI">
 </p>
 
 ### [Confira aqui o dashboard do projeto.](https://app.powerbi.com/groups/me/reports/f58c154d-78bb-4653-9185-ccc41efdcd9c/ReportSectione8c849032ddde5358899?experience=power-bi)
