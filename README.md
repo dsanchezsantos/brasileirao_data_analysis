@@ -1,4 +1,8 @@
 # Brasileirão Data Analysis
+<p align="center">
+  <img src="https://github.com/dsanchezsantos/brasileirao_data_analysis/blob/04cd8f8539f9c1137e7227d4f8de4c8f027323b1/assets/print2.png" alt="">
+</p>
+
 Data analysis project about the Brazilian Soccer Professional League using Power BI.
 
 Este projeto consiste em uma análise de dados do Campeonato brasileiro de futebol profissional Série A usando Power BI.
