@@ -12,24 +12,6 @@ Os dados estão distribuídos em 4 arquivos. Organizados entre:
 - Cartões (campeonato-brasileiro-cartoes)
 
 O modelo de relação entre as tabelas é demonstrado na imagem abaixo:
-<p align="center">
-  <img src="https://github.com/dsanchezsantos/brasileirao_data_analysis/blob/09832c5cf7db1184ffe3baadb7c0454c57edd59c/assets/Modelo%20DB%20Github.jpg" alt="Modelo DB">
-</p>
-
-# Brasileirão Data Analysis
-Data analysis project about the Brazilian Soccer Professional League using Power BI.
-
-Este projeto consiste em uma análise de dados do Campeonato brasileiro de futebol profissional Série A usando Power BI.
-
-## Conjunto de dados
-
-Os dados estão distribuídos em 4 arquivos. Organizados entre:
-- Informações das partidas (campeonato-brasileiro-full)
-- Estatísticas das partidas (campeonato-brasileiro-estatisticas-full)
-- Gols (campeonato-brasileiro-gols)
-- Cartões (campeonato-brasileiro-cartoes)
-
-O modelo de relação entre as tabelas é demonstrado na imagem abaixo:
 ![Modelo DB](./Imagens/Modelo%20DB%20Github.jpg)
 
 ## Apresentação - Dashboard Interativo
