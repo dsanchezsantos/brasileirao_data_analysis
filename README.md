@@ -41,10 +41,3 @@ A análise é apresentada em um dashboard interativo onde encontram-se as princi
 
 ### [Confira aqui o dashboard do projeto.](https://app.powerbi.com/groups/me/reports/f58c154d-78bb-4653-9185-ccc41efdcd9c/ReportSectione8c849032ddde5358899?experience=power-bi)
 
-
-## Apresentação - Dashboard Interativo
-
-A análise é apresentada em um dashboard interativo onde encontram-se as principais informações disponíveis com opção de segmentação por filtros.
-
-![](./Imagens/print.png)
-### [Confira aqui o dashboard do projeto.](https://app.powerbi.com/groups/me/reports/f58c154d-78bb-4653-9185-ccc41efdcd9c/ReportSectione8c849032ddde5358899?experience=power-bi)
